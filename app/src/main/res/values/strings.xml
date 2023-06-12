@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercicio_Individual_8</string>
+    <string name="title_app">Ejercicio Individual 8</string>
+    <string name="title2_app">Ciclo de Vida de Activity</string>
+    <string name="btn_app">Ir Activity 2</string>
+    <string name="btn_app2">Volver Activity 1</string>
+    <string name="btn_app3">Ir a Youtube</string>
+    <string name="two_activity">Vista Activity 2</string>
+
+</resources>
